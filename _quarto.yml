@@ -3,18 +3,14 @@ project:
 
 website:
   title: "Jarguedasvenegas.github.io"
- # navbar:
-   # right:
-    #  - about.qmd
-     # - icon: github
-      #  href: https://github.com/
-      #- icon: twitter
-       # href: https://twitter.com#
-
   navbar:
-    left:
-    - text: "Inicio"
-      file: index.qmd
+    right:
+     - about.qmd
+     - icon: github
+       href: https://github.com/
+     - icon: twitter
+       href: https://twitter.com#
+
 
 format:
   html:
