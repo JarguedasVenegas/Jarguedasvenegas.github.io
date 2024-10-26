@@ -1,5 +1,5 @@
 ---
-title: "Mundo Friki"
+title: "articulo"
 author: "Jessica Arguedas"
 date: "2024-10-26"
 categories: [Analisis]
