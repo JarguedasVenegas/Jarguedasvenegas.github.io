@@ -1,9 +1,9 @@
 ---
-title: "articulo"
+title: "Mundo Friki"
 author: "Jessica Arguedas"
 date: "2024-10-26"
 categories: [Analisis]
 image: "estadistica.png"
 ---
 
-This is a post with executable code.
+Este blog es sobre estadisticas de videojuegos
