@@ -3,7 +3,7 @@ title: "Mundo Friki"
 author: "Jessica Arguedas"
 date: "2024-10-26"
 categories: [Analisis]
-image: "estadistica.png"
+image: "mario.jpg"
 ---
 
 Este blog es sobre estadisticas de videojuegos
